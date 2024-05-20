@@ -17,7 +17,8 @@
         "maintenance": 30,
         "isNationalWonder": true,
         "uniques": [
-            "[+100 Science] <while researching [Military Science]>",
+            "[+50]% [Science] <while researching [Military Science]>",
+            "[+50]% [Science] [in this city] <while researching [Military Science]>",
             "[1] Unit Supply per city <when at war>"
         ]
         "uniqueTo": "Oceania",
