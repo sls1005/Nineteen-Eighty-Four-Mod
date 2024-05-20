@@ -5,11 +5,17 @@
         startBias: ["Water"],
         startIntroPart1: "",
         startIntroPart2: "",
-        declaringWar: "We have always been enemies.",
+        declaringWar: "We have 'always' been enemies.",
         innerColor: [200, 0, 0],
         outerColor: [0, 40, 174],
         uniqueName: "English Socialism",
-        uniques: ["New spies start with [2] level(s) <during the [Modern era]>", "Free [Worker] appears <upon conquering a city>", "[-5]% enemy spy effectiveness [in all cities] <during the [Modern era]>", "[-70]% [Science] <during the [Modern era]>", "[-10]% [Happiness] <during the [Modern era]>"],
+        uniques: [
+            "New spies start with [2] level(s) <during the [Modern era]>",
+            "Free [Worker] appears <upon conquering a city>",
+            "[-5]% enemy spy effectiveness [in all cities] <during the [Modern era]>",
+            "[-75]% [Science] [in all cities] <during the [Modern era]>",
+            "[-75]% [Science] <during the [Modern era]>"
+        ],
         cities: ["London", "New York"]
     },
     {
@@ -21,7 +27,12 @@
         innerColor: [255, 240, 0],
         outerColor: [200, 0, 0],
         uniqueName: "Neo-Bolshevism",
-        uniques: ["Free [Worker] appears <upon conquering a city>", "[-5]% enemy spy effectiveness [in all cities] <during the [Modern era]>", "[-25]% [Science] <during the [Modern era]>", "[-10]% [Happiness] <during the [Modern era]>"],
+        uniques: [
+            "Free [Worker] appears <upon conquering a city>",
+            "[-5]% enemy spy effectiveness [in all cities] <during the [Modern era]>",
+            "[-30]% [Science] [in all cities] <during the [Modern era]>",
+            "[-30]% [Science] <during the [Modern era]>"
+        ],
         cities: ["Moscow"],
     },
     {
@@ -33,7 +44,14 @@
         innerColor: [240, 0, 0],
         outerColor: [255, 255, 255],
         uniqueName: "Obliteration of the Self",
-        uniques: ["[+15]% growth [in all cities]", "[+10]% [Production] [in all cities]", "Free [Worker] appears <upon conquering a city>", "[-5]% enemy spy effectiveness [in all cities] <during the [Modern era]>", "[-40]% [Science] <during the [Modern era]>", "[-10]% [Happiness] <during the [Modern era]>"],
+        uniques: [
+            "[+15]% growth [in all cities]",
+            "[+10]% [Production] [in all cities]",
+            "Free [Worker] appears <upon conquering a city>",
+            "[-5]% enemy spy effectiveness [in all cities] <during the [Modern era]>",
+            "[-50]% [Science] <during the [Modern era]>",
+            "[-50]% [Science] [in all cities] <during the [Modern era]>"
+        ],
         cities: ["Pekin"],
     }
 ]
