@@ -17,9 +17,9 @@
         "maintenance": 30,
         "isNationalWonder": true,
         "uniques": [
-            "[+25 Science] [in this city] <while researching [Military Science]>",
-            "[+10]% Production when constructing [Military] units [in your cities]",
-            "[1] Unit Supply per city <when at war>"
+            "[+50 Science] [in this city] <while researching [Military Science]>",
+            "[+10]% strength <for [Military] units> <after discovering [Military Science]>",
+            "[+1] Unit Supply per city <when at war>"
         ]
         "uniqueTo": "Oceania",
         "quote": "'In the vast laboratories of the Ministry of Peace, [...], the teams of experts are indefatigably at work. Some are concerned simply with planning the logistics of future wars; others devise larger and larger rocket bombs, more and more powerful explosives, and more and more impenetrable armour-plating; [...]' - George Orwell, Nineteen Eighty-Four"
