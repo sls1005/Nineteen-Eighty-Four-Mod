@@ -5,8 +5,8 @@
         "maintenance": 40,
         "isNationalWonder": true,
         "uniques": [
-            "[+1 Faith, -1 Happiness] per [5] population [in your cities]",
-            "[-10]% enemy spy effectiveness [in your cities]"
+            "[+1 Faith, -1 Happiness] per [5] population [in all cities]",
+            "[-10]% enemy spy effectiveness [in all cities]"
         ],
         "uniqueTo": "Oceania",
         "quote": "'It was a place impossible to enter except on official business, and then only by penetrating through a maze of barbed-wire entanglements, steel doors, and hidden machine-gun nests.' - George Orwell, Nineteen Eighty-Four"
@@ -31,8 +31,8 @@
         "maintenance": 25,
         "isNationalWonder": true,
         "uniques": [
-            "[+1 Faith, -2 Food] per [5] population [in your cities]",
-            "[+1 Gold] per [10] population [in your cities]"
+            "[+1 Faith, -2 Food] per [5] population [in all cities]",
+            "[+1 Gold] per [10] population [in all cities]"
         ]
         "uniqueTo": "Oceania",
         "quote": "'[...], the Ministry of Plenty had issued a promise [...] that there would be no reduction of the chocolate ration during 1984. [...], the chocolate ration was to be reduced [...] at the end of the present week.' - George Orwell, Nineteen Eighty-Four"
@@ -44,7 +44,7 @@
         "maintenance": 25,
         "isNationalWonder": true,
         "culture": 5,
-        "uniques": ["[+1 Faith, +1 Happiness] per [3] population [in your cities]"]
+        "uniques": ["[+1 Faith, +1 Happiness] per [3] population [in all cities]"]
         "uniqueTo": "Oceania"
         "quote": "'It was an enormous pyramidal structure of glittering white concrete, soaring up, terrace after terrace, 300 metres into the air. [...], picked out on its white face in elegant lettering, the three slogans of the Party: \n\nWAR IS PEACE \n\nFREEDOM IS SLAVERY \n\nIGNORANCE IS STRENGTH' - George Orwell, Nineteen Eighty-Four"
     },
