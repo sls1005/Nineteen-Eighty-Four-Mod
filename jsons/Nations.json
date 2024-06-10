@@ -56,6 +56,7 @@
             "[+10]% [Production] [in all cities]",
             "[+10]% Production when constructing [Military] units [in all cities]",
             "[+10]% [Production] [in annexed cities]",
+            "[+10]% growth [in all cities]",
             "[-5]% enemy spy effectiveness [in all cities] <starting from the [Modern era]>",
             "[-50]% [Science] <during the [Modern era]>",
             "[-50]% [Science] [in all cities] <during the [Modern era]>"
