@@ -6,7 +6,8 @@
         "isNationalWonder": true,
         "replaces": "National Intelligence Agency",
         "uniques": [
-            "Gain an extra spy",
+            "Gain an extra spy <starting from the [Modern era]>",
+            "Gain an extra spy <upon entering the [Modern era]>",
             "[-1 Happiness] per [10] population [in all cities]",
             "[-10]% enemy spy effectiveness [in all cities]",
             "[-5]% enemy spy effectiveness [in all cities] <in cities with a [Telescreen]> <hidden from users>",
@@ -19,13 +20,14 @@
     },
     {
         "name": "Ministry of Peace",
-        "cost": 200,
+        "cost": 170,
         "maintenance": 10,
         "isNationalWonder": true,
         "uniques": [
             "[+50 Science] [in this city] <while researching [Military Science]>",
-            "[+10]% Strength <for [Military] units> <after discovering [Military Science]>",
-            "[+1] Unit Supply per city <when at war>"
+            "[+5]% Strength <for [Military] units> <after discovering [Military Science]>",
+            "[+1] Unit Supply per city <when at war>",
+            "Cost increases by [30] per owned city"
         ]
         "uniqueTo": "Oceania",
         "quote": "'In the vast laboratories of the Ministry of Peace, [...], the teams of experts are indefatigably at work. Some are concerned simply with planning the logistics of future wars; others devise larger and larger rocket bombs, more and more powerful explosives, and more and more impenetrable armour-plating; [...]' - George Orwell, Nineteen Eighty-Four"
@@ -66,7 +68,6 @@
         "maintenance": 1,
         "uniques": [
             "[+5]% [Production] [in this city]",
-            "[-5]% enemy spy effectiveness [in this city]",
             "[-1 Happiness] per [10] population [in this city]"
         ],
         "uniqueTo": "Oceania",
