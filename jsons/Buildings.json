@@ -2,7 +2,7 @@
     {
         "name": "Ministry of Love",
         "cost": 200,
-        "maintenance": 10,
+        "maintenance": 5,
         "isNationalWonder": true,
         "replaces": "National Intelligence Agency",
         "uniques": [
@@ -33,7 +33,7 @@
         "name": "Ministry of Plenty",
         "requiredTech": "Agriculture"
         "cost": 200,
-        "maintenance": 5,
+        "maintenance": 3,
         "isNationalWonder": true,
         "uniques": [
             "[+1 Faith, -2 Food] per [5] population [in all cities]",
@@ -46,7 +46,7 @@
         "name": "Ministry of Truth",
         "requiredTech": "Writing"
         "cost": 200,
-        "maintenance": 5,
+        "maintenance": 3,
         "replaces": "National Epic",
         "isNationalWonder": true,
         "culture": 5,
@@ -58,7 +58,7 @@
         "name": "Telescreen",
         "requiredTech": "Electronics",
         "cost": 150,
-        "maintenance": 2,
+        "maintenance": 1,
         "uniques": [
             "[+5]% [Production] [in this city]",
             "[-5]% enemy spy effectiveness [in this city]",
@@ -70,7 +70,7 @@
     {
         "name": "'Joycamp'",
         "cost": 100,
-        "maintenance": 3,
+        "maintenance": 2,
         "uniques": ["[+1 Production, -2 Happiness] per [3] population [in this city]"],
         "uniqueTo": "Oceania",
         "quote": "'Such words [...] meant almost the exact opposite of what they appeared to mean.' - George Orwell, Nineteen Eighty-Four"
