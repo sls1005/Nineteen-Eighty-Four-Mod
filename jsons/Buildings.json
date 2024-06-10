@@ -28,13 +28,13 @@
             "[+5]% Strength <for [Military] units> <after discovering [Military Science]>",
             "[+1] Unit Supply per city <when at war>",
             "Cost increases by [30] per owned city"
-        ]
+        ],
         "uniqueTo": "Oceania",
         "quote": "'In the vast laboratories of the Ministry of Peace, [...], the teams of experts are indefatigably at work. Some are concerned simply with planning the logistics of future wars; others devise larger and larger rocket bombs, more and more powerful explosives, and more and more impenetrable armour-plating; [...]' - George Orwell, Nineteen Eighty-Four"
     },
     {
         "name": "Ministry of Plenty",
-        "requiredTech": "Agriculture"
+        "requiredTech": "Agriculture",
         "cost": 150,
         "maintenance": 3,
         "isNationalWonder": true,
@@ -42,13 +42,13 @@
             "[+1 Faith, -2 Food] per [5] population [in all cities]",
             "[+1 Gold] per [10] population [in all cities]",
             "Cost increases by [30] per owned city"
-        ]
+        ],
         "uniqueTo": "Oceania",
         "quote": "'[...], the Ministry of Plenty had issued a promise [...] that there would be no reduction of the chocolate ration during 1984. [...], the chocolate ration was to be reduced [...] at the end of the present week.' - George Orwell, Nineteen Eighty-Four"
     },
     {
         "name": "Ministry of Truth",
-        "requiredTech": "Writing"
+        "requiredTech": "Writing",
         "cost": 150,
         "maintenance": 3,
         "replaces": "National Epic",
@@ -57,8 +57,8 @@
         "uniques": [
             "[+1 Faith, +1 Happiness] per [3] population [in all cities]",
             "Cost increases by [30] per owned city"
-        ]
-        "uniqueTo": "Oceania"
+        ],
+        "uniqueTo": "Oceania",
         "quote": "'It was an enormous pyramidal structure of glittering white concrete, soaring up, terrace after terrace, 300 metres into the air. [...], picked out on its white face in elegant lettering, the three slogans of the Party: \n\nWAR IS PEACE \n\nFREEDOM IS SLAVERY \n\nIGNORANCE IS STRENGTH' - George Orwell, Nineteen Eighty-Four"
     },
     {
