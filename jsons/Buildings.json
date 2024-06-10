@@ -4,9 +4,14 @@
         "cost": 200,
         "maintenance": 10,
         "isNationalWonder": true,
+        "replaces": "National Intelligence Agency",
         "uniques": [
-            "[+1 Faith, -1 Happiness] per [5] population [in all cities]",
-            "[-10]% enemy spy effectiveness [in all cities]"
+            "Gain an extra spy",
+            "[-1 Happiness] per [10] population [in all cities]",
+            "[-10]% enemy spy effectiveness [in all cities]",
+            "[-5]% enemy spy effectiveness [in all cities] <in cities with a [Telescreen]> <hidden from users>",
+            "Comment [-5% enemy spy effectiveness in all cities with a Telescreen]",
+            "Hidden when espionage is disabled"
         ],
         "uniqueTo": "Oceania",
         "quote": "'It was a place impossible to enter except on official business, and then only by penetrating through a maze of barbed-wire entanglements, steel doors, and hidden machine-gun nests.' - George Orwell, Nineteen Eighty-Four"
@@ -42,6 +47,7 @@
         "requiredTech": "Writing"
         "cost": 200,
         "maintenance": 5,
+        "replaces": "National Epic",
         "isNationalWonder": true,
         "culture": 5,
         "uniques": ["[+1 Faith, +1 Happiness] per [3] population [in all cities]"]
