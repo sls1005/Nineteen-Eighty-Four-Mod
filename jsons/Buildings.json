@@ -1,7 +1,7 @@
 [
     {
         "name": "Ministry of Love",
-        "cost": 200,
+        "cost": 150,
         "maintenance": 5,
         "isNationalWonder": true,
         "replaces": "National Intelligence Agency",
@@ -11,6 +11,7 @@
             "[-10]% enemy spy effectiveness [in all cities]",
             "[-5]% enemy spy effectiveness [in all cities] <in cities with a [Telescreen]> <hidden from users>",
             "Comment [-5% enemy spy effectiveness in all cities with a Telescreen]",
+            "Cost increases by [30] per owned city",
             "Hidden when espionage is disabled"
         ],
         "uniqueTo": "Oceania",
@@ -32,12 +33,13 @@
     {
         "name": "Ministry of Plenty",
         "requiredTech": "Agriculture"
-        "cost": 200,
+        "cost": 150,
         "maintenance": 3,
         "isNationalWonder": true,
         "uniques": [
             "[+1 Faith, -2 Food] per [5] population [in all cities]",
-            "[+1 Gold] per [10] population [in all cities]"
+            "[+1 Gold] per [10] population [in all cities]",
+            "Cost increases by [30] per owned city"
         ]
         "uniqueTo": "Oceania",
         "quote": "'[...], the Ministry of Plenty had issued a promise [...] that there would be no reduction of the chocolate ration during 1984. [...], the chocolate ration was to be reduced [...] at the end of the present week.' - George Orwell, Nineteen Eighty-Four"
@@ -45,19 +47,22 @@
     {
         "name": "Ministry of Truth",
         "requiredTech": "Writing"
-        "cost": 200,
+        "cost": 150,
         "maintenance": 3,
         "replaces": "National Epic",
         "isNationalWonder": true,
-        "culture": 5,
-        "uniques": ["[+1 Faith, +1 Happiness] per [3] population [in all cities]"]
+        "culture": 2,
+        "uniques": [
+            "[+1 Faith, +1 Happiness] per [3] population [in all cities]",
+            "Cost increases by [30] per owned city"
+        ]
         "uniqueTo": "Oceania"
         "quote": "'It was an enormous pyramidal structure of glittering white concrete, soaring up, terrace after terrace, 300 metres into the air. [...], picked out on its white face in elegant lettering, the three slogans of the Party: \n\nWAR IS PEACE \n\nFREEDOM IS SLAVERY \n\nIGNORANCE IS STRENGTH' - George Orwell, Nineteen Eighty-Four"
     },
     {
         "name": "Telescreen",
         "requiredTech": "Electronics",
-        "cost": 150,
+        "cost": 120,
         "maintenance": 1,
         "uniques": [
             "[+5]% [Production] [in this city]",
