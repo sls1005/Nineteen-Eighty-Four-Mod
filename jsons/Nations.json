@@ -12,8 +12,8 @@
         "uniqueName": "English Socialism",
         "uniques": [
             "Free [Worker] appears <upon conquering a city>",
-            "[+10]% Production when constructing [Military] units [in all cities]",
             "[+10]% [Production] [in annexed cities]",
+            "[+10]% Production when constructing [Military] units [in all cities]",
             "New spies start with [1] level(s) <starting from the [Modern era]>",
             "[-5]% enemy spy effectiveness [in all cities] <starting from the [Modern era]>",
             "[-75]% [Science] <during the [Modern era]>",
@@ -33,8 +33,8 @@
         "uniqueName": "Neo-Bolshevism",
         "uniques": [
             "Free [Worker] appears <upon conquering a city>",
-            "[+10]% Production when constructing [Military] units [in all cities]",
             "[+10]% [Production] [in annexed cities]",
+            "[+10]% Production when constructing [Military] units [in all cities]",
             "[-5]% enemy spy effectiveness [in all cities] <starting from the [Modern era]>",
             "[-30]% [Science] <during the [Modern era]>",
             "[-30]% [Science] [in all cities] <during the [Modern era]>"
@@ -54,8 +54,8 @@
         "uniques": [
             "Free [Worker] appears <upon conquering a city>",
             "[+10]% [Production] [in all cities]",
-            "[+10]% Production when constructing [Military] units [in all cities]",
             "[+10]% [Production] [in annexed cities]",
+            "[+10]% Production when constructing [Military] units [in all cities]",
             "[+10]% growth [in all cities]",
             "[-5]% enemy spy effectiveness [in all cities] <starting from the [Modern era]>",
             "[-50]% [Science] <during the [Modern era]>",
