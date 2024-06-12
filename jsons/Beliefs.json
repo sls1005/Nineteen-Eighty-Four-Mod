@@ -4,9 +4,8 @@
         "type": "Founder",
         "uniques": [
             "May choose [1] additional [Enhancer] beliefs when [enhancing] a religion <hidden from users>",
-            "Comment [May choose 1 additional Enhancer belief when enhancing a religion]",
             "May choose [1] additional [Follower] beliefs when [enhancing] a religion <hidden from users>",
-            "Comment [May choose 1 additional Follower belief when enhancing a religion]"
+            "Comment [May choose 1 additional Enhancer belief and 1 additional Follower belief when enhancing a religion]"
         ]
     }
 ]
